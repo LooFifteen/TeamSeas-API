@@ -1,4 +1,4 @@
-### Recent Donations
+# Recent Donations
 This endpoint shows the 120 most recent donations, the 120 top donations, all registered teams and the 20 top donating teams.
 
 ## Endpoint
