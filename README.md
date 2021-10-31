@@ -18,3 +18,5 @@ The TeamSeas API runs off the following URLs:
 The following routes have been documented:
 * [Total Money Raised](routes/json/donation_total.md)
 * [Recent Donations](routes/json/lb_recent.md)
+
+* [Badge Flair](routes/assets/badges/flair.md)
