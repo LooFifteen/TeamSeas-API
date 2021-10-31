@@ -17,3 +17,4 @@ The TeamSeas API runs off the following URLs:
 ## Routes
 The following routes have been documented:
 * [Total Money Raised](routes/json/donation_total.md)
+* [Recent Donations](routes/json/lb_recent.md)
