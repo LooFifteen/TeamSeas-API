@@ -20,3 +20,4 @@ The following routes have been documented:
 * [Recent Donations](routes/json/lb_recent.md)
 
 * [Badge Flair](routes/assets/badges/flair.md)
+* [Flair](routes/images/flair.md)
