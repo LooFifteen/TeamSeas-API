@@ -1,4 +1,4 @@
-### Flair
+# Flair
 This endpoint returns a PNG of a flair. The flair name can be gotten from `donation[flair]`.
 
 ## Endpoint
