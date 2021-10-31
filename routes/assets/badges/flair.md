@@ -1,4 +1,4 @@
-### Flair Badge
+# Flair Badge
 This endpoint returns a PNG of a flair badge. The flair name can be gotten from `donation[flair]`.
 
 ## Endpoint
