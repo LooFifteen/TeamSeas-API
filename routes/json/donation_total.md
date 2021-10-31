@@ -1,4 +1,4 @@
-### Total Money Donated
+# Total Money Donated
 This endpoint displays how much money in total has been donated.
 
 ## Endpoint
